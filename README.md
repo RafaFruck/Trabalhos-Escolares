@@ -4,7 +4,7 @@ Meus trabalhos Escolares de até 100MB (mais que isso o git não comporta)
 - Vantagens: 
   - Nunca mais esqueço de enviar;
   - Sempre sei para onde enviar;
-  - Se o whatsapp resolver não funcionar, eu nõo preciso me preocupar;
+  - Se o whatsapp resolver não funcionar, eu não preciso me preocupar;
   - Posso fazer 100% pelo terminal;
   - Pareço um hacker fazendo isso.
 - Desvantagens: 
